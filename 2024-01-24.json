@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Alvarez",
+  "age": 33,
+  "address": {
+    "street": "Enualo Lane",
+    "city": "Lueddur",
+    "state": "MO",
+    "zip": "39649"
+  },
+  "contact": {
+    "phone": "(721) 514-2409",
+    "servicePhone": "800372563"
+  },
+  "birthday": "2003-07-05T10:33:06.901Z",
+  "ip": "201.144.138.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Piumire hujog icivu vohteneh dewiru vephuv fubvi de zievpi so ebupechan gipil. Pusca josumda resna lagre ku vod we lison ipo mered be fecure luocion hi ucoco sonbu zurogode ari. Mugno deilirar zab bo ojiamo ug ot eku linfe inkumbir zune toctila nuiroef ek hetji wo de. Suina lutmo zesjezi areb cud ar inicaba tun gehgiw ahoivveg pisum obezur umhi ti. Zukil ad pidji dal ejli ifevahib hupkifid fuiz bevkankol na fizet opi.",
+    "bio": "Kevubzoc oguhulus kubussad tun atodesi opnuvjan jup tazonbe cipana zohuhu bag woljabil. Iku pa ro ozufapo baczoko delail lefrof vamol hi muhup bijunuv do gejow. Omi giesufu mu roro kis me vuvro ru senuz pun nazligkol waw ogoam wekit bastijul. Odomumudi ijuomairo padwer tukigpag gevwoj muckev indivit ineziw lepge erab zapevalo ladef cafa uvegib. Alarodo wuwtu uceuwa epadis latfoto ceb ofedu fijupfi mubed wemet vim go lo puv. Wog udluhi reup tabbilzi adhofhas wozdedmo nuhwo lekbufti ow jo icuji war ce alep togatki eb."
+  },
+  "apiKey": "fabba55e5b937afe10076c36e68efdc94abb1cbfcaee040fe1050c5736a9776d",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
