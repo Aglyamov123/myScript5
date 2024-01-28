@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Baker",
+  "age": 28,
+  "address": {
+    "street": "Momjir Turnpike",
+    "city": "Nodeliw",
+    "state": "MN",
+    "zip": "69125"
+  },
+  "contact": {
+    "phone": "(713) 769-9774",
+    "servicePhone": "800145549"
+  },
+  "birthday": "1995-09-01T09:19:51.567Z",
+  "ip": "123.127.31.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Wid bigofa vo ho tukverka pos jede wanaw vudog litguhac faruklaz okeul. Bov ebhit sujawu wecfiv lahnulme lofhikez iru zeztiab cu jit fej rizfudom sonan las va tule jeworpo. Up elbeav tiku reibahif paguac saco numel dekdu naosa sik sipa erfo netga up ceswam lum mifaho. Fozikhi im mebigtoj rul uv sunnak ba nuwre ira doogi tuiga gego oma guvuba megoh umfonja uso.",
+    "bio": "Repegu etenalic was ceptokis ucozujkat iwjuvel sebpovav ze cijvah came ciwjofe celedfu ne jec usiaw luplo gizsol. Lug belozazo ri ron agatne reke hufipe fuwnat lehmuweh cu num ca. Petakjan doedzib gim tu ja riwlafon pafepav sifka gi tas uwfe famigo dabebaw. Fodi dac hupef un mop ril do la posigaoci uj fodigko vejvejab. Coca pu wu vup fuvugpi bepetuw seban zepav sirbeskaz umeotozec opo so zibaz vuih ke nel. Guknusroz fuzu farec kob ta mowdezko gedca big pemuka ce zaef rogmut zod ega."
+  },
+  "apiKey": "51e0bc5ab6bd56194700449d529c77504c501d903e01bd2e30980252f8c2023b",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
