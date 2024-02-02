@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Hall",
+  "age": 19,
+  "address": {
+    "street": "Obja Loop",
+    "city": "Naciac",
+    "state": "MO",
+    "zip": "05950"
+  },
+  "contact": {
+    "phone": "(218) 768-1233",
+    "servicePhone": "800727595"
+  },
+  "birthday": "1964-06-12T08:05:43.920Z",
+  "ip": "3.183.132.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Jis ojasuwu imatud bezho kanavfej ko fola ocuwenoz wapuk si garehtac jagdusih dur sarmo va. Kudbijdul cig cucda hubkig navip ac peahwep ru asegugih tu behmo up ekfedwa togofcus sic. Zav bu wotuw rit keuzo fewvo tuloh ve fuumiji kulbu gonocwo liw fuj.",
+    "bio": "Cokad nasor sawohka cutfahpiz webarhet ussegap wup hakozrud mievfen hovutru duidnim nedu ucasebo punum tig. Katesi kinooki ic ran polihazu wazti cuub ladnoja bohafiju suifi had ritretvur tafkarbe peha. Dieku cuze kuko kofdekme sor femehaome suhohzuj do rikab zi roub rabosar mi. Ufasu vicce za maozu kaje gaknuz na cet ji fuf riwtot fefpinuc rokjic."
+  },
+  "apiKey": "38d3d433fdb4ae0d38b533f516e7bd4bf68c2692e4101e50743dd7ec1e14cf40",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
