@@ -1,0 +1,26 @@
+{
+  "name": "Christopher Keller",
+  "age": 43,
+  "address": {
+    "street": "Gege Way",
+    "city": "Iwafonim",
+    "state": "KY",
+    "zip": "59332"
+  },
+  "contact": {
+    "phone": "(534) 687-9655",
+    "servicePhone": "800818919"
+  },
+  "birthday": "1974-02-21T11:39:19.777Z",
+  "ip": "109.171.171.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Cawti mi fi gapijvez ohla korursir se denkav ipimuhohu zovbug at wumak ocoofada waze. Kiine ude iwevbo nunwijsen bid peeb lisni jel za fo dez feba de ji joutupo. Paecacop wuzfog ahviv du rip wip mefirri pug fepir edi ibeuga hal fucido otwudow piv zewip. Zim piv aheinipim eh oce kiru codalved suj bubote ok ziha lof li fedeure asiat sub urlun fonri.",
+    "bio": "Zonsobowo ig jore vopeg desivhuj ci siok tinvehka da ipcupa muguur wukjo as dadkapih tibere ujulinim. Pod ki poli lu kuor akuowwu we cubin tiruwu kajujes adu eduwov fab pozol li jucom. Nepucvi zitewwub musmaaw saf dibog len afe wapow kov liber ocgu hisked."
+  },
+  "apiKey": "a9894cf3cc4b4abea5faa26738094adec1074f16a1e82992471caef21a91e889",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
