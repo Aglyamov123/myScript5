@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Peterson",
+  "age": 32,
+  "address": {
+    "street": "Toca Glen",
+    "city": "Lejwehece",
+    "state": "GA",
+    "zip": "27152"
+  },
+  "contact": {
+    "phone": "(407) 831-5010",
+    "servicePhone": "800559792"
+  },
+  "birthday": "1983-04-01T12:32:46.777Z",
+  "ip": "11.153.50.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze dutsum nat avo rafcok arpi godgefzur udgimej liezodi ezlo ik beeste dooguuwo eb pap vacesop. Miriroz evsakzer ufmew olakuegi hawloblih inju kecemric hor si pa ritaveol jewfehu. Ad aco rook cekuvtah ca weluvzal di zug gogwamwa lehuvlem nuha meuzni wivema nelhocko en coz.",
+    "bio": "Bakwu pos onedake nizna baed pogukme lolmozpa to keleg dosoluvan vuhatsih mini sazva mizrot. Leozegiz nug ezu oz foewujir fahwetif fuvejo bihucpen uvaki isduod bivah aswicok iveho hul diphocwuf pelrupcic nudgi pip. Egbildaj nur sa igekepe duwim fowwe cujowdin sougla si hooh jera es vineb ju jugise pebu ur ku. Tig efi ujmo gecu tujiwcem rib jazlo ajbob hezha woccula macabut mosda."
+  },
+  "apiKey": "b31e8be35d50c1a940b85de3b08e3d44ee796630c70840456a0de02224db322d",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
