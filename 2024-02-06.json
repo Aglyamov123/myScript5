@@ -1,0 +1,26 @@
+{
+  "name": "Tom Nichols",
+  "age": 64,
+  "address": {
+    "street": "Aroma Road",
+    "city": "Wewujez",
+    "state": "TX",
+    "zip": "89774"
+  },
+  "contact": {
+    "phone": "(250) 455-6895",
+    "servicePhone": "800642968"
+  },
+  "birthday": "2002-01-23T04:42:51.470Z",
+  "ip": "11.67.32.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Ejeetinun diamiho woakfig canu fi uzo dafesat ciwot vovsu bi mo pip ud. Suiv difdi pakudi horuzu ija tarhe nograzu ut go dohhuar ra zitnesi rosjasija elcuw nisepor ci. Am oporig ro ukeli gasmizas medtuwam raklej son kadtu cizihdir tut ahina.",
+    "bio": "Mesekuf firpeda tito odaeca vap zojative hodabdap ci emi patuiz ijavaoh ujobot taz rupi. Utic ordod sofom lohu makkur upudu ritoteni ivemusnaz sohaz istesod mododov wocewaji el mud honhokku cev tuf. Rumuvi fujnabav gip zumbeshuk mufogih pinfer geha duses kibah nivukovo is jute joip nade jaje ah doglojwi. Hezic ukho zepzelze it rubmaj bulukepu rotmedeb wircow kaf pivwozte fekojo nu."
+  },
+  "apiKey": "aea8a5302b43fb09478fbd0bba639b8e98fa0a3a83539c09767f9024b102cdab",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
