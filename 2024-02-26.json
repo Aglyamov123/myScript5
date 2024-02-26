@@ -1,0 +1,26 @@
+{
+  "name": "Vera Walsh",
+  "age": 33,
+  "address": {
+    "street": "Dispi Road",
+    "city": "Ogjuvo",
+    "state": "ID",
+    "zip": "51763"
+  },
+  "contact": {
+    "phone": "(381) 798-8454",
+    "servicePhone": "800217965"
+  },
+  "birthday": "2005-03-05T03:47:49.502Z",
+  "ip": "238.132.217.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Weh wu cuuha susipa pukazu ruwud fihur nezzadup noz elu havoli vef neuc sowihoze. Cejoril rojsu ril wikbonku sak tetucde kozoore feloko riprofufu luttuj pirfu kecopba zil lesok. Na hisluzgu cugoleda zeh dewdawac avi tusufcog me vu nah edfeti ruha.",
+    "bio": "Sockap fehepus ipzem vogju vuhra tu rabzov mavusepa luvne egaraga bozun duhenuw hebol aroh. Anho ke cemjokcu inebog tacfafwep pa sunzol ulka zovieha jiburu awguspih zumoag miznib givjudola camo uw ofuji. Rakrujod mez koharake lefzod tiichaj uc bozkuc ig bibvu pa mantedro upo voej jamgopiw."
+  },
+  "apiKey": "722024aae61477b95e386216250f5f9e4056f3a649ca9dd2d1aacd7b7e263f59",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
