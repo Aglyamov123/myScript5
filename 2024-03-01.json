@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Jefferson",
+  "age": 32,
+  "address": {
+    "street": "Lenas Point",
+    "city": "Tokihwa",
+    "state": "DE",
+    "zip": "60820"
+  },
+  "contact": {
+    "phone": "(619) 849-2768",
+    "servicePhone": "800675797"
+  },
+  "birthday": "1996-12-10T02:04:45.742Z",
+  "ip": "32.150.250.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Etver voroku wem icrit mi wezi ufa idnacwo gihwo wilova lub ce jasmo datle ow esobadi. Umubi imliza salec ha guhtejaj epohiwof octola wuwiwret hatur cibped tov sif cukuge tum. Izo pilid poej wespeuzi momruho ufefa ok sekji asetuume boicko unne pe.",
+    "bio": "Dav woazi zufiza wa ime iv vebamu sovih wepjah sa co cuzsafe ner pohepe gofwiwuv gener em. Ejesapmin inire bokraset gun di ovape seteji og heeweje ru kazowol wepopi huj gat peiv wufge dunagmuc sasoloduh. Jometgu funacjo ho gefevog ojogaduj nefso wevic fokpagac obife ovdokec umu wo de raufeku ju afuvuhuj tonnoh. Vaheru colefo rivzabgu ifvarew guohsa biunesan ilucuroz zu surmuzpin madwiv idor olwe uni he bofmu cerol."
+  },
+  "apiKey": "0fbae25d3086413a6b701746dcfd0cc6dfa8bcc619f37134a493654fc547cc07",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
