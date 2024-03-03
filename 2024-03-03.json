@@ -1,0 +1,26 @@
+{
+  "name": "Chase Brown",
+  "age": 23,
+  "address": {
+    "street": "Zokek Plaza",
+    "city": "Sijwuaci",
+    "state": "OR",
+    "zip": "91244"
+  },
+  "contact": {
+    "phone": "(240) 660-8973",
+    "servicePhone": "800884568"
+  },
+  "birthday": "1997-07-13T06:25:35.353Z",
+  "ip": "209.126.241.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Bolowza vo ped tavi ge zemeb uh goc ejo vijalubaw tikgemam azonofa su fuvir ugafoga raklivun tojbih. Lin socaveitu vivmodgi te popdak himikas ovve mufivviv muhvauw leuli lebif colof siwka calen kot. Fori nojpoade etinavci vupze ohu upe tik perumi jazefit egtehoh de vapiwrer vow zuamu vadicij.",
+    "bio": "Giflu te imuze waf vurbuw onelones cion jimilsem eponofiw idu doged niduv zehre taiviva. Usni hehevadad ziw omujit rug nemebbed wad sesija ne vigjo fignecu apu malu fu ewipebor siik naju zeukupej. Ilu wurgiczig as jijat finukek zihdaj ziv cenudsak tino olzadwu ge paw juwa huavnus."
+  },
+  "apiKey": "c69c98db20edb9d187aa5e301802d9cb0a373fba8674d5b0f5af44fcec6253fd",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
