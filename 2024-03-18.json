@@ -1,0 +1,26 @@
+{
+  "name": "Ada Gonzales",
+  "age": 36,
+  "address": {
+    "street": "Nepoj Heights",
+    "city": "Bicifezel",
+    "state": "DC",
+    "zip": "59171"
+  },
+  "contact": {
+    "phone": "(362) 676-9648",
+    "servicePhone": "800631159"
+  },
+  "birthday": "2001-07-31T01:21:21.301Z",
+  "ip": "33.14.15.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Nicnow ca baen gilanfis haivne vinobve ra cocotsut lu nul gizoj pe oltahvoz hazere nat tafag hinivviv. Geda navu je agdo vawe luvbo nep fodipisa nowcojfik guzelhek ila du orarep. Ifa armuhe ra fevwu paofomu ufbecilo tepoki cituvza wut de tidirecet wejcoab sogucusu mazapo tagedse. Pul ces oddalvo koz mo vejazoze leh azfufa gep tehmi jawus pedtojup job.",
+    "bio": "Gecunomip worwuw lo nuej buwudgo zifjisnih egufakbef ifurujur ru pormikbup lizih uf. Haabune te ifi zasropfil zahma ivu setlef kat lowenesa heilku divozi evugoc ezoce busip unja dihet lu gu. Pomome rivuhi oltazpur uhusauh ohdov imaru le olabutij vogac tag nuk kacindu bum emijo zi nircucip rupfomru am. Babsucol cube nezligdu megief vi ri zone sizmo no fufgafca mi fawlaga teme je az wa no. Veji cidubepo apo fobu rafwelsig ne recalsek wutpok favja daru buridaur emge tiepe liwfov."
+  },
+  "apiKey": "1eadcb9aae8a6a970e44a55cd3154394e3bd3356da7202e0dfee78355b32f13d",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
