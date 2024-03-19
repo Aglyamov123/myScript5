@@ -1,0 +1,26 @@
+{
+  "name": "Mable Singleton",
+  "age": 28,
+  "address": {
+    "street": "Ceaba Pass",
+    "city": "Vunlitve",
+    "state": "IA",
+    "zip": "50258"
+  },
+  "contact": {
+    "phone": "(661) 571-6030",
+    "servicePhone": "800617651"
+  },
+  "birthday": "1968-02-06T04:22:13.063Z",
+  "ip": "50.237.214.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Jermahe umgo cusbi dimko rapob izzivu dip dichi cefacet da iv janvohvaw lem asoba. Zijdechoc derwi zujolvi vat gode len bul tadad moal wevus kiwocje vumi. Ba lolhu nun suk ufjotves owoepe lihbutu dopuk beoru ni uf forme dopurji voj otpivu ed hub. Simwace gu wapjowu emlol ih dijfo wo vubgivpaz zalce ukaca ozmu timamba wa sitduzo ac. Kapegito du caka so fulofpa jouho ociug lena hefwadu odisud wefrakek le vemrijdu fam rok.",
+    "bio": "Ja he tubdek nec ifhe pintehik vujsen savu vohi nigba siz he imowu dirkud pi ocdo gaz. Fa focem fu toshikek likfa ecina iv ziz hipvev vime rufmo nutu faccersiz otvatu hep ci lodgic. Mosukeawo bearto be tuluz si pezkizi fukovu eppudju pocu kor jo ewugabo kiad awenuges sukwislun."
+  },
+  "apiKey": "73c1a02d7efc166ec0eadebcfe7cd7f09d18a027aee3b4d0dc6a404fa849bfec",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
