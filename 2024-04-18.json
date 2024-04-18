@@ -1,0 +1,26 @@
+{
+  "name": "Tony Clark",
+  "age": 21,
+  "address": {
+    "street": "Vuno Way",
+    "city": "Ruusaci",
+    "state": "MT",
+    "zip": "01686"
+  },
+  "contact": {
+    "phone": "(628) 880-1409",
+    "servicePhone": "800162724"
+  },
+  "birthday": "2002-12-08T08:55:54.943Z",
+  "ip": "49.115.135.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Bezcaf no agomire zov nu azi fak ijo feje hu kamheza liw fu ri. Ameot bo tug otli epepog vodput tum ubouweda kani usgivuc ejunwal vepan. Bu dufku la vizmal hicheda cozawbub na sevulu pahka go pi puz mah fuolge pit.",
+    "bio": "Sej wekiweti mesa aljib uhudiko widecatih uc hefe eju muchovowa jonigize vuf. Zeisgar hu niosodi hafhucig obhewuh ize hogmoc pumo uku bu su jifamiw ged emoku emudabzo rupobew lus ler. Esotevdi numaaf orusju wiktew pijahho lonuc ocekanon hifronoc epla ose winpok likko fuc dafaik jes. Mu fe vik poawejal ogom zijec vekobuli la ewerofu ovfieni roteghu wo hewojogu je. Zugedmih hevzar oco kozotafa ivileh ker emisa gidotej cesnat ro fiso mizulmi icficwec wowkursu dodgorab ac tawavku cemvewuf."
+  },
+  "apiKey": "9fc0c9750ff4b3469844be1c65798024212c25f4d891dc14b00fcd3b3f1c07c4",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
