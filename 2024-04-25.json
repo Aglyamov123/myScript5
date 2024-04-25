@@ -1,0 +1,26 @@
+{
+  "name": "Joel Haynes",
+  "age": 50,
+  "address": {
+    "street": "Inka Lane",
+    "city": "Vivazab",
+    "state": "ND",
+    "zip": "03102"
+  },
+  "contact": {
+    "phone": "(747) 870-4331",
+    "servicePhone": "800758931"
+  },
+  "birthday": "2006-03-27T03:52:33.722Z",
+  "ip": "112.190.101.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Fabu fateti emzono ipahuki mecha ihi funme aje lihi usakabek onejit mojbavot be valgo. Ujenojol lunbab gahpan nelhuz az fazvesolu netozi rivu aro kimombi enipivo vuetabi tuweuhi bobfajow utise gantassin zugjupnab. Feze dovudwus wagrelub wuzreb vem kan noha cakzow ka im fofusha enuiz fa catitig eg zekaje tirso iheffok. Run lig kut jo viwiona zufamo deghit ga ebewicco mebit ibuve fuc. Tavupim hij udo hadzava buslunga vacec ahakic ciz emimomo habu toija uneleac uvoipo. Se ziztois hi nuog je netfohup garfimo ujetubato anof ara tuf zore wuj wowij buavnab joer.",
+    "bio": "Gaselcid gujodu valhudvah pimsepa vujectuh fupe pushorsob juhle ahaego got vof vosag. Bowzok idta nil fivodjuz foduho aruew wumuas azekovusa disipda vagabu cecohu loab doubatok. Kugli kaluzcol udjetgaz izehovbug wegcej rawzun wugu sektoj codojo ganki dabwic ka bibintam. Tubu ku ves ibenujo po tofibo anudimed dabnule sanorno ima gellijej ikcot fa il ir lim."
+  },
+  "apiKey": "1db889c3ab28f7394463e6f8596d743d18118f0aae8de1f006e22b5b45b14246",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
