@@ -1,0 +1,26 @@
+{
+  "name": "Annie Webb",
+  "age": 41,
+  "address": {
+    "street": "Ehirom Boulevard",
+    "city": "Iziokli",
+    "state": "KY",
+    "zip": "24600"
+  },
+  "contact": {
+    "phone": "(587) 539-4164",
+    "servicePhone": "800383526"
+  },
+  "birthday": "2004-05-11T09:34:45.625Z",
+  "ip": "166.243.71.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Mad tal za or jiko isaaca uhwi jegogufez zappo ja masub mokeniva budirdu. Telmak pajjag kujed pa cib jagovi ureub mamzuako nemet so laler upit wubesdec refose hubecof. Norefe renif nincihol da ofeku rug ir et abwi baacide owwu ihu dipe mu valeeji zulilug je.",
+    "bio": "Pazmane zupik ib awtowfo rirwofi gajutgok ospube ipukih nuteef raipe aluvo umu ko aluwes nuhvesun gopehagur cacveri nutamce. Vi masilo bupmok mucodcez noti jen povkofna gevha ifihitu adivura iladeowo kur wen ma tahtiwag ji ecpa. Kejpi juchuf raucvez sokit ezuhu ahbe ibwiv zofoflos aza taz wa viknawi pipku wigeve. Ca dacan pe wagge wubodu zi ikwugi ol va pofacbe pek onpofpis kiefize rukuv welu daj su."
+  },
+  "apiKey": "2eac7bb806d6095481e0a04488f6b8976f7a09fe2fade33edd1cd029011c9485",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
