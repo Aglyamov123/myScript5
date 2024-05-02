@@ -1,0 +1,26 @@
+{
+  "name": "Earl Wolfe",
+  "age": 23,
+  "address": {
+    "street": "Dalo Road",
+    "city": "Biavuzar",
+    "state": "HI",
+    "zip": "54020"
+  },
+  "contact": {
+    "phone": "(834) 965-4600",
+    "servicePhone": "800175946"
+  },
+  "birthday": "2003-11-26T08:35:39.124Z",
+  "ip": "214.220.72.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Ufu tejvoti set riz ce bi emu fimooba lehrebud morro se usokok temvoki cukelhol. Atekfo he ubow folut zibwurja zi upi sehluw cu depidor nik cev tecniteh cu bubter nofok kogku. Gul fuvsi zo re ibrel marle usaor vise pe wenti zut vatulve viw.",
+    "bio": "Afge vitsouri udofasi awu we catzi merrema howupjud zovaw mi geg cutzi wikas. Bovu de oswir ci rosufwi kerko guflipfe aluriljag keat mamebuc pipeb epmokag tatile. Luvuluj oga fi mitcul umi webe wup fotaremo favag cuttaz uznenev subho hief cip kefok. Rukuja kolip rivihvuj wapro rumuk iw apowek rugnihkam kumac dogwed tebec so giwelwo mepzibo had emit tu."
+  },
+  "apiKey": "adda880f657eb339554a67f6ebdea6f5b07a745abf1aef9d89f1562c47c366ae",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
