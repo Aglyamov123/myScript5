@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Schwartz",
+  "age": 23,
+  "address": {
+    "street": "Muhu Terrace",
+    "city": "Metuifi",
+    "state": "ME",
+    "zip": "41530"
+  },
+  "contact": {
+    "phone": "(231) 265-5217",
+    "servicePhone": "800593763"
+  },
+  "birthday": "2001-06-25T07:30:41.989Z",
+  "ip": "25.49.112.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Zubog ehsofu jo wuksav ok govi sud cepbi zigijal hetu lur karen bir vanpo. Onuwuf ezhiaj suel zu fekzihufu wemepu wibuc jol mohi bivli aj eb. Gakbewi sesci agugesba dohnipsa sujmuc zic metlotva jip gazjoc dajpi ga hufhaj.",
+    "bio": "Gosemu ci varef dowjuwfu mugipa al vebrew kacefbu giciwhos lumgin mimud totutuf du. Kapeclil ije vubli aco vi sufobu jesaedo duke tes mepufva be bube sejis kalpof. Kefuwo uwatehgup ojtazkiz kipzepun imtiapo ga ko wurerod aznagoh ozuvijun vuuze obfe zolewi sigib vik. Eg ataegarer gikegci lop laz padepaj cogtow cuj hadegek dew kul dukovca wozu maz we gekabwo. Runob elpiloh takah egpe cuz emibi gahumwaz tivpe ojmibsig car hebo zinatbej am ciibvi supeppi ago. Ec do ulraz fizac dejufe ro rifuhef fobuviwiw new jer div emoz la zohfevo. Osbotso net bedvufwic uz odilize digji ji zib haz urse wezge ub sicmali zi."
+  },
+  "apiKey": "1eb6cac21b972f8005c4b0f859f5c043bf835a515d815b6d36090b34b7fdc5e7",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
