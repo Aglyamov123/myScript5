@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Tyler",
+  "age": 50,
+  "address": {
+    "street": "Gazrac Circle",
+    "city": "Hetafjid",
+    "state": "AZ",
+    "zip": "11129"
+  },
+  "contact": {
+    "phone": "(614) 369-6060",
+    "servicePhone": "800175865"
+  },
+  "birthday": "1997-12-02T07:09:39.330Z",
+  "ip": "210.131.176.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Utuba ote paf uje puneho napdadi revmowju pu goswi hul gofangeh kiz ewa. Ge tuufraf dazerud guzbittid mumukhaw abusu me aravoodi tespelebo fij hepbobo kubacmed. Muro hahgu uge fi afhosut paj fu odsus lotme wan ap vokukkoz. Wujjas gijmihep im af dirhe wudba ipe jolimwif ke teh pidsil lufem. Mejathiw tosab uppaczuj lupawe lanulun pal bivigsam bodposu mad to vu coplo itojawer wufil. Vo vutoz wegre zowuk sijeli gah com mojhuroz vepumna cewmodem itugivdog vitrunki ihema fodnimgit. Wedepopuz zarwa to gemjog tu ic dum fuw tug uhigelro ej veg.",
+    "bio": "Otubeg jolipu hurgo pahwe cibavud daucieja ranodhug luntagke gac miuri opulac ehsanil gup so rojo. No pesu dum piga vapkol nemcida caoge ja awowi ebja juwutjew movew apit ujirupzan padne. Vowoge viskicis hergod marpe oztin vafmi rat wuvnev bekujeeru ekbep satdi kidu he fizbigku juvilu ihe repvoedi libo."
+  },
+  "apiKey": "2bb31e2348a81234ff47705366ca83205202d139048311f01b06fdb29734c1df",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
