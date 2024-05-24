@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Reid",
+  "age": 26,
+  "address": {
+    "street": "Dejas Street",
+    "city": "Ojotolo",
+    "state": "KS",
+    "zip": "54046"
+  },
+  "contact": {
+    "phone": "(778) 976-8995",
+    "servicePhone": "800964939"
+  },
+  "birthday": "1985-01-13T09:40:16.421Z",
+  "ip": "176.45.133.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Taiz vuw niga zosaj sunlohcu sov un gad laawifeb ehno zocire goamove cesuk doweh. Jojutra gej amudgun ipkaveb asa cab ijucub ig poc pafnoj wufmeib cer zavji fusojpem nepob nuce ujojluk pisad. Hare tuzak ujapoda goutbu je horode ginebtat lugpiltop gaugumi pamkor fe ni ume dekijju. Foljuco obeizba helami tuwsi di waboho deh vorkiguh ico vopujtid vosjocu coha asedu keg arlamo lisam.",
+    "bio": "Fa ure gi geusego ze no egta tatmoc nac kefbegces ruvwuoje taeci efavauwo hocal. Nohlowten dodlow lerjiv ahobi zegvemul raofu rakuuwe ruhzi ke hos mohocize ubiilazu deke bihki zifoc laddew. Zihah gac bon ubvos cidome al tidhuzaj kojrulis ih sivi giwdeed hozbe fol suvferwe azhu. Jegfoszug memo tonfu obsaho wuzenoz se icufin ugitok rewuk vika evdugep lofotub fes. Tusfoido zureud zi in ipu iz tu jimolhat opezohpa sezo dis de dirim ki we mibsuhiw voufa."
+  },
+  "apiKey": "798443002398e9ef836b41ebca9847660b0a6165c6debb2f74afb529822802b6",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
