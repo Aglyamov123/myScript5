@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Bowman",
+  "age": 25,
+  "address": {
+    "street": "Muscug Mill",
+    "city": "Hugomet",
+    "state": "MS",
+    "zip": "31608"
+  },
+  "contact": {
+    "phone": "(275) 361-4501",
+    "servicePhone": "800952577"
+  },
+  "birthday": "1998-06-25T05:43:12.989Z",
+  "ip": "49.115.10.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Tidleut wim tedatjat wuffenmo lihorji eksout turtolpub hunu judev fepakra wav boneza wuj zi rutvori. Kas joebkib fij zofu raw jotsacul vugno nuknatpe rihvuna ho finpide fifkuzmu. Wohtac ceev nacwos afwavdo he otimo naluhhag peov ga oluza pobpasa ijuciw kerubsuv. Cid movked kaw weuv libarehov uwo ran vifocu iveepobo fenfag donjaj uj wuarzi.",
+    "bio": "Ivzumud gegeh roguvkol dehfa zar zo lov ofoto iheanbuz avbup efatolor kaclehik va ejekagad jag jowo ziave bermuzgol. Aguga ma wafemku dat gi av hidiid idiarika emalop wofegweg mociir dugzop hog silbafiwo jekugpu seeranut jiba egauplu. Edi kuveg fodevenov tajif ibetepuj zahnufuc huc owo efmeik woffe ihikacwu zo ini ehzosoc bufdari."
+  },
+  "apiKey": "7fe9a4e99fb91caff32d46e2787f8f5b43ca9ac99cd82a08affb85ecae000ba9",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
