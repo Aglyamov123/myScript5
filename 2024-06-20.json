@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Webb",
+  "age": 65,
+  "address": {
+    "street": "Wivi Boulevard",
+    "city": "Ezaceme",
+    "state": "CT",
+    "zip": "81736"
+  },
+  "contact": {
+    "phone": "(677) 986-8559",
+    "servicePhone": "800657732"
+  },
+  "birthday": "2004-01-08T04:52:44.447Z",
+  "ip": "230.26.187.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga poeftuf po gom no se zi cu heoraito egtopi zisha duwew pucna. Wevo pev ma dizit cu lut affip ocogog womemuogu sezbacij kavhu gutrohwom bi gerem. Zuvhojti papjokuzi wealdis nof ca hihek duwvin disdicdaj efkogo fu de falbivmi lehnir. Wo em tu kuiwa tiftawvif emogi riwjuef odu cadu ci zirok anugetuk zadrac. Ofa zese pob cusoipi uko peg tib ju ozokol do bovgu racojun sul cordizdi.",
+    "bio": "Eduucged wewhikkom befa cascoc tudepe jibag pinaz zama cohiwto damojnip co pob gedohon kob lil favued zompemce. Ni vicip ijrole ita coricpab wok tutjozda sor oju bigwioc tovinoj usdor ero. Newwolpup vezbam gi bug sofub bifzi ufisowag tu si nuvekiw na potwavbuv lo hormapo rav bigwiv weubodi roeni. Keni vakiwif useisde lizi po noleb jo bismunlu wevad hur ifzaktin jomol waduko ga. Fot ruisebi hebli wekepu pa kob zehluk no dogroko latoz hut ruccab."
+  },
+  "apiKey": "77137e3b6d138bdcb2a37f7640038377ef5ac5bf98f51b6e2eca438a2a8b5dd5",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
