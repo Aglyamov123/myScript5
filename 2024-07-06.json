@@ -1,0 +1,26 @@
+{
+  "name": "Scott Hanson",
+  "age": 60,
+  "address": {
+    "street": "Pacal Park",
+    "city": "Ukagiusu",
+    "state": "MT",
+    "zip": "70668"
+  },
+  "contact": {
+    "phone": "(203) 592-8634",
+    "servicePhone": "800337461"
+  },
+  "birthday": "1982-03-13T12:27:37.303Z",
+  "ip": "218.246.133.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Aso tahdab pemu dadave ilafu du diof jofemew mopudmuw guc adamubom ofocil mo bu zertofate hoekdab fal fucutek. Dumi wedipa zokmahe hap tankeuba fegwofe tatretwum zumhihas worudu meh ore ereguf kek az jigwowloz. Zewo agilenuf mi ziuw hi hif te kolsowuj hirjeesi fac udhe alu tehsuf odwornac parwuc fop zisgase.",
+    "bio": "Foz hemo lovde we dewkaco heefe tinrupfa somuh wazolni molebu puj zahe ukajuk ecevot duvohet jal cofnizi ah. Tubibil jiburwa gekog hobihe egi torabeop fume fowolne wo gotbi cor coksaseh tefsutic. Feer juj bamre aribin cesefti mib ponolica hoznog itubulap borpi wu suk ug bilhuwop pepis tug fik muwe."
+  },
+  "apiKey": "adbfd99deb4dd69fa65e43d1e949040a0134a27f84544ea76175e7e111413a28",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
