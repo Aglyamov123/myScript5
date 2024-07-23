@@ -1,0 +1,26 @@
+{
+  "name": "Walter Jackson",
+  "age": 47,
+  "address": {
+    "street": "Ikupu Loop",
+    "city": "Kefupo",
+    "state": "SC",
+    "zip": "83136"
+  },
+  "contact": {
+    "phone": "(828) 646-7297",
+    "servicePhone": "800281456"
+  },
+  "birthday": "1987-04-26T10:30:28.784Z",
+  "ip": "100.4.234.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Jeama pigtufus oh gaj fa zidto tinlodwok fu oso lilar jivta ri as vopte ce efo. Tu wedpanpic sikocuh bi kem agafucog jetehpu wuvuli gizefu pogiwfu bocgon uko gihjak enekiil vofi. Na ujnokja mi ful te fu hojezhav sibjon nu fojhuju avlup uzutu doeklug visizug.",
+    "bio": "Ezicipok kisok ohiwegaz pabca fovna acajeb fi gim hit gafketo eki ogvo morairo mawimfug. Uphijbup sacsot bazol wa wo fola pug ossuri fu sakcup teijo vihi oz hu ekagu ke ukojaje. Gu kidji pi urno linsuc vowho bunosem odpub jejgacet lepep atkolfed bop wual ihbuv ono eri iz. Viuraap solu et ifasemi oznezuz bikojem wim ulufovop pujdewfan vocvoc kotufme ogfuri ugliku recakno. Pet hukukode neh hednukej hovdav pa eceto bewuleh gukdi pe sujossi puwolle tuefa lisosek tirlugde capfuc kuca jabzona."
+  },
+  "apiKey": "c48268c496f029c1d5fd7946d8162d858de6ae3768e03c4f74b6d78ebd03b03d",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
