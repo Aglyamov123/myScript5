@@ -1,0 +1,26 @@
+{
+  "name": "Paul Shelton",
+  "age": 52,
+  "address": {
+    "street": "Haugi Key",
+    "city": "Runedu",
+    "state": "AL",
+    "zip": "10470"
+  },
+  "contact": {
+    "phone": "(400) 291-2351",
+    "servicePhone": "800457731"
+  },
+  "birthday": "2005-12-20T03:39:35.768Z",
+  "ip": "56.61.188.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Zupef ravobji de haale laowaake talzel gupkadmuh tiak rad to fehidoto ju. Ake lafu eb joacpij guva tutrizid idwidsa orvoib gu so notuhzuc ajlul una jubbici zokehpij bu. Inrupjoc he joz jase dav mijko zupe mu petisno et riig cegoes jawowi. Gorat luiwo kaig vuhnuflej zaideru vug revomu gataf le zigolauto lesovla uzjegcaf.",
+    "bio": "Ab patgirir jarehke ne balit nek jucamis cos ajkel cofevcul awa kut lacele. Ofhic ezjiglu ij ufetek kejlaal sitesukih feshewu ta zisogapa vep kitke epzevcir tif fona gecot jumkav tusegmi. Cemidem gu tokisa ve dud siinzav ja gi luvuvra redwezge bamzo gehhejge dopaglum. Ake wakibven aredum litgog gif la nettaiwi si jos vo wotiwpa supjubocu."
+  },
+  "apiKey": "57267bb1565aa23767b97c03b75b1ed07de30848c8d13565592dd48fb0a6efe5",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
