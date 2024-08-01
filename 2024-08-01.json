@@ -1,0 +1,26 @@
+{
+  "name": "Brian Beck",
+  "age": 47,
+  "address": {
+    "street": "Kaba Drive",
+    "city": "Etsakdop",
+    "state": "DE",
+    "zip": "71528"
+  },
+  "contact": {
+    "phone": "(556) 752-6915",
+    "servicePhone": "800865749"
+  },
+  "birthday": "1974-11-17T08:23:03.825Z",
+  "ip": "149.37.128.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Seuluada vujvasher uzipagec raj vukwe vogar emti ladpefori zon pehieg uceze kudud ogari. Idavet on gazo mok kikpamin kij gaguteco sidrid hijti ovomuwi ibwoh wuatuv muh lu. Rudasiped jerro zovoimu kaf lac evgobog esooko wecmo taase enu gamhauhu redjukov gorwa. Upu wovamse evla vag evuikkuj pagcu wizfe de neleve joduf jinejiw pidem. Zom kaluhgi moskamog jevpiki pa zi sela vuz je ku me gumo sew kojevi cowesut bade juubuun. Oguvefnor agehet zop fat fi fegwemde igkefar junze piluk avvur fuji wu uzod zav ukomerzof enzif ke.",
+    "bio": "Lim fu rigotanu do ezomag ra tihit pojefke noc apki usepevo veh. Hehwa jan memtildim sinvu an reata wuho tibew cesfum zeaw nibatuwi nerup ib. Nujar widfa jiucu gefteiza voh hujcov cotiw cevwah gowe pipum gomfa nazusuha ujowumeh hestu. Edtu ku si fo tetothi fa hivjug pekro tum focizas cekhefi ri hih vudi asiwa ez efo osazeche. Idahabda ifewe moejeni iw efeji pomil vousmi tujco ot pawackot nu mocamit zufilca jam mi rus cikna log."
+  },
+  "apiKey": "fb43d1371362f2873b4e1280a2494954b1a4d23800336952524e715aeeac38eb",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
