@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Barber",
+  "age": 36,
+  "address": {
+    "street": "Ruzuj Extension",
+    "city": "Malawog",
+    "state": "UT",
+    "zip": "08672"
+  },
+  "contact": {
+    "phone": "(772) 507-7417",
+    "servicePhone": "800257691"
+  },
+  "birthday": "1963-03-24T07:03:51.379Z",
+  "ip": "142.190.12.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Mom avuhoj pow vi du po lutci ho ravecud gekca hehaepu bivla vic web lesmuh mipuz ocufuko fulsa. Codsejo ot jejrenep taimmah li cusfag batgojuma ahepedgi dipzubiwi ed rut bukole nib wokahe gagze nugoc fej iduhazle. Fu po kinuguc pedbo lecwe zo dosba ho hotwi narpa sutibici bigundar. Lubo kulizo fimpop otbe lutef doohe rew sefa sa gamdar sivus doz irlo jamjejkor omo inohoz fifuzisi fezehho. Jipjop dewreh bifze utoknom vescol kuslothib cok mijibi machajre te fagkaf ajzena ziwjo udgo cewpumum ehasa. Wu kozhukop noofu re nube kuvil hezaka eso miv civ waciva goesifu. Zuuh kignam ozsa jak itahezec ruvofu nomzesju de hi jiniv zi malmuw sibziknun desezoti ci gifto san areaja.",
+    "bio": "Hebhottit boge juh ja petimojed aju zuznem inufa okacuz lutlutur wa zaweru liirudo fertalsu mapwet iwroaza. Rirheblu oculket dah izerihi re liojvi vobihbus alvaji na mivrun uh iwdov pu nololim kugju. Muzute fu vimita becte kiedzu pifek dec dig welatodi ugitem zaadvi ti wo akkoj."
+  },
+  "apiKey": "98d4eff6be4bb0da1d5d3092fe78b57b8c4afc55d075ee6969bf7657903c6e4a",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
