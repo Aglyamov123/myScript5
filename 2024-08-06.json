@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Wright",
+  "age": 20,
+  "address": {
+    "street": "Asga Loop",
+    "city": "Dilnevej",
+    "state": "MD",
+    "zip": "57900"
+  },
+  "contact": {
+    "phone": "(358) 444-1773",
+    "servicePhone": "800384174"
+  },
+  "birthday": "1984-01-12T02:59:45.086Z",
+  "ip": "121.216.192.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Nodbe favji za ajced ju wer ajset vikelvog uv hosu vi aj ruonazez carponir nuugulib temafwu orunot. Kumijto zeuf va ez ko unamugus avne ijidovcek adsi puarwiv pegi meodunam jiz su bi cir zunfi. Teroji mab do vodin tuk jowvel mekewri na ne jil puluwidum bizzaag. Tam ge raromha dopet himnemuw volef le oniwu luku pefzido fugi ladhunaw fikpak iwnowuf.",
+    "bio": "Hogfe ufvutape zoh vafut ege ow osuruvef uz ke pa elilupu fo dahvipas cahperdir. Nuibepu fitwoci ditojaf kurmu se korda avocemew johge begijsoz ovoejdu foel wumaf tic zu. Ebo na nogiw mif tampi fu vob kubuwob lussi rak jevinof gek aro neg be sokirri. Simfim iwgu wa fos uhguoze mohufteg edmeama zopup azimok vaz tec nigva nuwoneg dok kapbi. Hi po opesabu pokobi oge rukat linwiaj daglud eboigler fapoteli ri hujos la na genbasuh jum."
+  },
+  "apiKey": "efc1f39a53c32b9aa112edae88ae94aaa4e4c81306e5dcb2c8fc525d70cf9d2e",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
