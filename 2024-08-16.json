@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Montgomery",
+  "age": 20,
+  "address": {
+    "street": "Obran Street",
+    "city": "Gocpirze",
+    "state": "CT",
+    "zip": "58368"
+  },
+  "contact": {
+    "phone": "(945) 687-6346",
+    "servicePhone": "800562813"
+  },
+  "birthday": "1980-04-18T05:26:30.648Z",
+  "ip": "229.194.23.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Loczuc bal awwokuj zulzepul cip sevum witizse wibcoghek cuihibi sitrav wo kah cemu bi casi idobadih uvkobu. Fimidiz kawace fini vofvil vek koguvsed lun ri vajsa uzbij din ikovoca burlucjo gife uv radiza upusi. Zoabifev je cit sak vew ug um usumepkip go miw ewebazbap sav visuki juuba.",
+    "bio": "Mejurnek kuhvalhiz purevov fesawjas otovado osi zolculfo isruwasi ejhaipi sinaf raliju muacpu. Pu jiul hikin ejage pufdaddov kejuko vuhorujo silsi musjut veeddef mawiw zuv juv uk. Igzu loc va gicaple lebhejus si sufsup ruseibe kufefa pezab bisjak fen nog. Tof zor paefi ni locugle vawpu pusakoc gidifni teicgab edecem ric huvvizab megge hacac hiti fetlucab it."
+  },
+  "apiKey": "e44b9a02a2f9863234c83b9c287984d50e6054c62af98715b1fafc40f094741c",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
