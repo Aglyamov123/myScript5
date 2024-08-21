@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Henry",
+  "age": 30,
+  "address": {
+    "street": "Ijuvo Circle",
+    "city": "Suzanooko",
+    "state": "CO",
+    "zip": "61394"
+  },
+  "contact": {
+    "phone": "(717) 555-2911",
+    "servicePhone": "800738917"
+  },
+  "birthday": "2002-03-20T04:08:58.757Z",
+  "ip": "145.82.12.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Umoetahu jelcesos ba cajin hic bo deit jongaklep le kalzinag nomuk jariv taoliwed. Tetuzob uwoinafo obij evgawva irome awo jojhe eherujfal ojalfa bal votofolip hahju li. Jiv mekka birefja vu nemok bat tob ni miwjente kehinku bana mifovhe hejo wuizca.",
+    "bio": "Ev zaaso isowogo vettegvu buzonin ko huc riceezu mulil vadfodov awra aji aloopti vaw. Ju doutgab gu arbu adwej tu kal nijabac bescetew du ofsirjal kir esiun. Tofi zicmulheb nac moripe uprok ge ni bih jigadam pod dad deosuup luletisi bemwi evono unosazza me sitpi. Ujaaro bete da ispi jovor se ugu hafcip acu mi uf wiwugna wet ba."
+  },
+  "apiKey": "e1b3774395490a747e1608614de1a37e0a311cb644ab435b29eb97601e6c051e",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
