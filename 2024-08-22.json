@@ -1,0 +1,26 @@
+{
+  "name": "Jane Jensen",
+  "age": 47,
+  "address": {
+    "street": "Pamet Terrace",
+    "city": "Uphapuc",
+    "state": "WY",
+    "zip": "31678"
+  },
+  "contact": {
+    "phone": "(558) 859-5446",
+    "servicePhone": "800927875"
+  },
+  "birthday": "1999-11-21T07:00:55.125Z",
+  "ip": "86.140.192.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Ramhovce ejtu lejhaco hen me vukmumdo roalpad vawel ja bu vu dohka vag uhdatpo lugjutva ja as. Ro pakfo ocvaj no ke ceipbip ogeop eri nurizo su ce gajejesa mu po gapfinmob. Sit ce pobef lat sa otrecem luehmu mithomaz ebipoboh peuz peh lozwuhel enela guhak zosi.",
+    "bio": "Luumamud fe ob hizlip ci zocfaaf ecvehkiz kapu omacuz milo gibcedja viluzob. Pupvak umihid gur orlooz kof huz egoto taiga co irinme nuwlo halzet hajci jawbo hu moh. Daba suril nogjug duwefoho liv watil idve zi folromeh vetor haofsi nudcewni. Ekihedo halsam toavojof mahezuiw laaja bun ca sazne tuj losofhiz dol jukirwa he si poummo fojba da etdutwib. Mabna varpuof dopmim modgahjeg mu eb fomujgu gam gavzuzam neawusi cunubfaw ig lijzi beov vuzatap enero rahadwuh daeledig. Dethur hu za lemirafe datur gowuseacu adwopap nisubdo mej kikjiw mauhvi bapimhoz wunav. Utasot tu fihome wiv wiaz rugnaphem sevtilu hooffa pudihavoz po mi sornogru zavipze ograga cifzo."
+  },
+  "apiKey": "f4411d73cb844d3a13f320031de9e8c53f13b39cf9058e00b42f937b7671ef3f",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
