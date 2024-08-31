@@ -1,0 +1,26 @@
+{
+  "name": "Peter Copeland",
+  "age": 34,
+  "address": {
+    "street": "Ovzi Avenue",
+    "city": "Imiitbi",
+    "state": "AZ",
+    "zip": "86146"
+  },
+  "contact": {
+    "phone": "(325) 773-6526",
+    "servicePhone": "800889662"
+  },
+  "birthday": "1999-01-24T08:14:54.083Z",
+  "ip": "250.38.64.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Fozanbas ci wastu upahaere efnir loj celneepa osugul givjihcom wi deebvak doahi. Avpaf wotdar bilu vecentu tec arahifow sidtu coge taipiep jepasib si erotugow pir vugizso ocatoh bopwasu fib hur. Ruppilib caontoc zifwet ze mo kes wibizop lebegvob lodilnom cuwwuwe tag sec pairiva vifbekme givetku hadkizig visoz.",
+    "bio": "Wuru veav gotit hoz navnaf fo marpit velifkit erofo mosgaloh camuvsiv ag udercoj wa hu jamuh foheso mewfangin. Tuvoz mewajka bizdiweh ju piv ni vufku nudupep giktarca ze te upu bapdel. Do tegdafel onbafi ufsulo wufpan ugi ru mit vacmolge pipsoab maugewa febazmab zohul ujhel nelah lug anuodabub ij. Eb let bomo sucemu jak zit jomufvep irfez heg riak wuc wu li fa."
+  },
+  "apiKey": "e7be9a1d2c61462f84c849ef24791d0505212ccfb372c3a94c95fec8cef7d248",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
