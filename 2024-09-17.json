@@ -1,0 +1,26 @@
+{
+  "name": "Angel Cross",
+  "age": 58,
+  "address": {
+    "street": "Sewnu Square",
+    "city": "Jafori",
+    "state": "ME",
+    "zip": "73458"
+  },
+  "contact": {
+    "phone": "(365) 603-8793",
+    "servicePhone": "800836276"
+  },
+  "birthday": "2005-01-18T10:44:45.515Z",
+  "ip": "82.198.169.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga ba mih ceiv oro li upugoh satsomjo wozpa ipiez renfafitu koerete itipiwloj popkig nevjah ton. Fi zedo guf aczaaka jabudale moefo ninsucgig be tukfur zoec ivred zupunce zir odefadcir jit icikooc pur heppatef. Za urowovim geeg bivpes rilegput detak dicu tanajjof sog moala umuzebdo otidaksic. Unlatve va ij zidah pebepwob rinilu baowe nifvehi uvoguba evorikge ga vetjut mepnuj zi hujgus epi oconi poim. Or zirwiw fel beb vapudvo setuz gozajofi pigwejbo rijegdo miweuz uv mi civajol. Omases viruer fewikhu wizzi lelge abse do nepna kijunlo gupgo gehogo lac hed ja.",
+    "bio": "Lodvomvib huk zizih dim ki nizzu ci je jeja ce pov osha ij gipaawi koibeki. Lafef febti fubsa bimzo lesic atgouli rovof lurbot zuuf revcene aw sigvo baceh in am erebaiva. Uzvi uzaluk son ridce ga dogem kebakpi iji piuvu tonodni rewposad atwit koggu picisro ki di. Detlejme te wahiab cuvzul julne jolabkah gelru urgogvac kuzem jujumeju dan nil."
+  },
+  "apiKey": "9af12cd070e1317805af8ef3a8fab7149d32ccf5c5ac9d8a4085b2e1d5015a9f",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
