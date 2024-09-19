@@ -1,0 +1,26 @@
+{
+  "name": "Roger Fleming",
+  "age": 38,
+  "address": {
+    "street": "Koci Pike",
+    "city": "Ecpura",
+    "state": "CT",
+    "zip": "18180"
+  },
+  "contact": {
+    "phone": "(345) 839-5506",
+    "servicePhone": "800314293"
+  },
+  "birthday": "1966-06-24T08:02:50.485Z",
+  "ip": "49.128.94.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Juleg jeviz tis gamepa ihewomuk sum la ki ibsi ta ihemow lepwirfo osid gokowzu iwe oc. Magaivu hatvuhcom cinokput ukowuf opi wevgaw lu kikopotu hu ih kabset tuc vurud pu. Apiezojuz or vukufat nu bosij wimer humhado pevcehah azowektuv an ar keeriano heb iljo. Alutowic belbigo imsa ogo paccav uza pekvamav sug avaokuj vezwu warlocsa lu juw met cozonjo pejopa kod obiuwu. Sivev fu rewipot sawi ecfiv vuzoreaj felpibmu zub osavopbe ne gizpev kaleh.",
+    "bio": "Pokor nu rumafa zuotozat lawjavuh oko zibumu ibpes uc ni ezuiju ibdaswo kiejehe fe fe. Mikneg he lopal pibgal giwem kanoja ge alev humfuspo rugek egjag hecaez bo do. Gace en nugeuwi bud fufob bosa hucretev or iv sif kazobi zekgobij ladbelro. Vig noesa guzefpo ofkahuvo ap uvu hitow anapiz rokez rimu ahmureg zevnuja kiwe mecanni ecwiv ode fa. Wecif ret kugsih hacim juoztu por huznabi gosahral ukroji sope vu ekfiz gab gedu be."
+  },
+  "apiKey": "adf243345e2d51646da4b8947a84a65b12c45fd999c4426da0f0c57780d1ee05",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
