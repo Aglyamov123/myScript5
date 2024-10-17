@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Ortega",
+  "age": 34,
+  "address": {
+    "street": "Toco Square",
+    "city": "Inudomki",
+    "state": "MN",
+    "zip": "86161"
+  },
+  "contact": {
+    "phone": "(341) 551-6066",
+    "servicePhone": "800362372"
+  },
+  "birthday": "1978-10-21T01:30:56.643Z",
+  "ip": "215.91.196.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Le mawuni meh muni wucjum butoca biv huajusob nofgalkim lenepaj bi wohe ic cabusuje ovozo tafod. Kejkozo ikosa gec eb fitosimov diri do dile lurkomuz ditga ehoki ovibo gor. Pufsomi igemi mum so fozubu dusvovod huc opokog gudow judvicet zewegven munul rakeoko we huzludog. Nojdake nul po dan dimtoku riikoza vot dojhoij zehenmo ba rezeda zedos gabdosfup.",
+    "bio": "Ruale put codwopsij wep ti utakapra am sutbad ebu rechiset gom wonuzaf al ubufozgu bi. Ke ivjaeb jidluc hovi sa zorfe nopiki cifni pi up fil sehmapewi. Mar mope gusoju ku ip azesavsij irvifike tahjej pouweko nevalsu aktaf evawiro jonlek rowecwi fajridiv. Ma mo ne tidem ejesuwhag ave pero wuzcupuz fo bo ibespuc uji wodauru bajmu uvacir armazo. Zolzomwe renpafhac aw dirvoh pobdo sejfokuh kemessuj cempo acuothel ici nikavozem rewi mejva uca pu dudaj unza. Fosuste jamesluj kofsuiso ga nimwa okopewan rorraw towewor zup gewosafo kuscomil at."
+  },
+  "apiKey": "37e027b7c11bd7d4534e5c593bc01280335932204fe25969500f7b866e250a11",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
