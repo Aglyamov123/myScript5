@@ -1,0 +1,26 @@
+{
+  "name": "Lloyd Andrews",
+  "age": 46,
+  "address": {
+    "street": "Sumgim Square",
+    "city": "Nutilwi",
+    "state": "NJ",
+    "zip": "20393"
+  },
+  "contact": {
+    "phone": "(474) 877-3447",
+    "servicePhone": "800833478"
+  },
+  "birthday": "1989-05-25T02:34:23.937Z",
+  "ip": "55.53.136.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Vimhen nizej kabruvti owacag giek wez jihob wiw mi izgow joutu hias tumatam cuot acopuz. Ogopu zetikibe etjaz hut ire ezuki civ bor tuz azoni budep ze cisagdi. Mofa revowa ebuormis kavlen zekdacu irouga vacohi esi tenhu feupuhot artedpon wifabola vu ugu.",
+    "bio": "Ajopli biheji divcod vectuwec we vificef ridove cenizupa kutki wur enhik agoiw efabeci liw ci rusmew ev. Luzcazzun oka hut ha vuzotowi did jata mudekon zuogdek zumumose ot dogoz bu zo. Joska rule vamlosle ca fasuc apa sacop volutu zal vowkihi cuwo kucmod afsojo odefi nasavew gilsatem dab pecwel."
+  },
+  "apiKey": "49e4fdd13f0ae1ebc4a8dafc635095371ef8d77524d82f77b23db8feb13929c4",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
