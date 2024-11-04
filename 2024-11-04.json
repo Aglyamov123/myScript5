@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Schneider",
+  "age": 48,
+  "address": {
+    "street": "Wege Mill",
+    "city": "Gatfeako",
+    "state": "DC",
+    "zip": "40865"
+  },
+  "contact": {
+    "phone": "(347) 682-1688",
+    "servicePhone": "800776312"
+  },
+  "birthday": "1976-03-30T04:51:54.107Z",
+  "ip": "5.43.115.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Dibgunnu kagvur we ihvijina jo ucohuso lubec nekuvka ojiva edojo nosaw erzimja eg unipicac zabo jobovgop af. Ja apjuzo zegwu ilafo pibe odjam gajuv siptolbiw lanjurpoh rak jotet jiwo kubviw eg gehtef tok ifimu vakza. Faihi wahogge uvkarag la ob tare mam ta dupiti ew suum erfobera ojiiki hic lahi.",
+    "bio": "Tedak arasefaci le pigse boigjor ic abju tukoc pad vup numzik wofu uh zuwsuwus ehuki liw ekipevul. Kawapzo ap cevlihal wo ma letsu co ohesaha ofo wuonufu cedco loda ki. Zol beduw ho cizwi vo veldow zikjujev uc ezuzahih atbegra meriw sobvom kakovwer vivfi vohtevruj do jagva ju."
+  },
+  "apiKey": "3c39742d6daf4a8a4dd9746b8571d5f62cfaa51ecf32b6f30fae7616a233694f",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
