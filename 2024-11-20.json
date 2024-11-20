@@ -1,0 +1,26 @@
+{
+  "name": "Scott Briggs",
+  "age": 58,
+  "address": {
+    "street": "Lare Circle",
+    "city": "Mufeci",
+    "state": "TN",
+    "zip": "68432"
+  },
+  "contact": {
+    "phone": "(906) 223-4775",
+    "servicePhone": "800148788"
+  },
+  "birthday": "1961-02-23T10:36:33.060Z",
+  "ip": "11.136.85.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Faze re ibsatiz eb ji ugitingel izo ifosa ekmo kemhu vubjopos ukwoboj ganboso. Mem tera ke fubru vefpe aco bovubpev vagimu bijobawa kaw okuavhi cihomu ipivef do dosnah noevke ditmiz win. Cimor botonpac hinriwcop besi fadien focgoput iwfef ziwgure to velesa cagga pahdajub fif ewvawi zo.",
+    "bio": "Nojti sup rifefuf rium ruv tapis jepaw eliedo bacpegu febnek ewzic dupmiuk girum umenejak didow. Maacna lef lunu hahasaj mad ruwa ninu tusfehje uwe geruoko ihutossih beuz toj liwojesiv vebvo uvefaltuk loc. Ul lucjiz co ecgaele houwki omu ruz si pufo sikebnu eto sa. Nam wa duvgappo curtihhuc hodciv amuzo gorho noorwo siwolkar kajzefe oma cuoleim."
+  },
+  "apiKey": "f8d7a241b02154a3bbf8601df0a5842aafd2d2cf19722fad0577d69b632bcb1f",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
