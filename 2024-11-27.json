@@ -1,0 +1,26 @@
+{
+  "name": "Luke Shaw",
+  "age": 19,
+  "address": {
+    "street": "Toek Turnpike",
+    "city": "Lubooku",
+    "state": "KS",
+    "zip": "62759"
+  },
+  "contact": {
+    "phone": "(771) 863-5141",
+    "servicePhone": "800841892"
+  },
+  "birthday": "1978-11-28T04:47:12.646Z",
+  "ip": "103.238.185.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Ez vem isoibaze ze zuwcuti gumha buav nin osur res nil otu ezupedec awivoh sawdobot. Hugow lisligri jepjuheg mowlilju bob jelim capji arovkik bosvit neliszuw uligiac vonge emafofer raole setfihwa ma famel maloda. Hoj jakkoh gomimu oliva sa uno jewo ekhagif hu noha mukpa vi fuakajoj.",
+    "bio": "Me gof pufi ofkicad sisot ag pi nefiz bodwikpuj hulni etuwa gaprek dazumbur zilu. Uvo jefsauto ut hulo imsujas pumzevcit hezuca usofusbol ceherkub zujum go updokar kuz suwopnur. Widgil cohag osehed dub zolimmiv bez cec zuzkur fesus ase zaso icvitho ozu bazceud epwicur bahrazfo vonkamzul sof."
+  },
+  "apiKey": "1faf601440dd5ee0e1a8a5d18d37c30b624f670864ee3d9b9b2fd612572cd741",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
