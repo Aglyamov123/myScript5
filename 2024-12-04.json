@@ -1,0 +1,26 @@
+{
+  "name": "Hattie Montgomery",
+  "age": 34,
+  "address": {
+    "street": "Pohje Plaza",
+    "city": "Defuzzo",
+    "state": "CO",
+    "zip": "16303"
+  },
+  "contact": {
+    "phone": "(321) 812-7462",
+    "servicePhone": "800234533"
+  },
+  "birthday": "1993-09-12T02:04:19.051Z",
+  "ip": "109.205.29.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Ji kuz tizgek mu diwahuw jumsegfih gip hofaki gupzad rejmodak fopo vilro gefpe resbol. Oroera kukotlek lu kot nefu ceg fep ive holasi dap cukpozet fubwe zermu uc. Nibasdig mi adwazfu wada pi me fa jukgepsoj gikum colninek awrehe umobi nosih fu set kojvehi.",
+    "bio": "Le noigi wuhmodap puzige lesduvi ocawpuw odelo lol en leho titacga ep wusi ve rajgolsi gu awo. Iba nicjej jek tidak san tecge zieg zinzu hunamdid ju ot zidoh tidkoz hi wuunzag luha. Adecucal kekru wizubaw haw tirlu pewbu ka ej zujrewe zaum eno suc ujza culfovno ref ogili."
+  },
+  "apiKey": "bec9a86a506a3f085b03e99aa6fba311ac10ec1879cc21602439148ef637f7c4",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
