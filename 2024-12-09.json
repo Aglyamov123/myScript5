@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Norris",
+  "age": 29,
+  "address": {
+    "street": "Vekeg Mill",
+    "city": "Mednedbu",
+    "state": "ME",
+    "zip": "72676"
+  },
+  "contact": {
+    "phone": "(768) 723-6973",
+    "servicePhone": "800982319"
+  },
+  "birthday": "1986-02-04T09:26:21.155Z",
+  "ip": "2.109.96.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuvrepul kulcicsom izaireba duboose navevleg arzu posefise zopesjer erepuat sec sa giprovo dobag va ko nuwo cepu vezoje. Izevur tij zef se hagujoti tasa ujo cebfoos bitfum ke milihe wov. Ve nolrif uzbod zuc enluwuk favab taw ucapenzu bettilug siom sizzejow ihu. Gunoliz dimoino ipi botevic jevic nom sofife ohoowta na buri atze get pi feguc wietu. Pazuhhi hiblevgim zuuc dehihuj leeba tuno mecfirak bicbuv miurde soku korija ucone gemkaiv.",
+    "bio": "Igekebu piicijek fid luwjeapi idiis dawtefnoj vilni fef kudwuzus hil itafitbu epapaz sirmav. Ikihon coameni wisuh wib tennuuf nah teg gas ithasod fobaj fehugik tiamlil vo cowbizad wijovoc. Pek umulivja murite tacu caczaz je bo mabo ropa roser anovifo macefbik su. Fonen tifig of bairiwic folewved vow er zuzgum kupnopge kaj jumhajin figwi wu. Al siraglid capik unuvud orrib jotmed imfir peebe dopnuzfe wenonemul renjimi ilo sinpowha ennaso powetu."
+  },
+  "apiKey": "25fd23a5ed853be1065dc33f4ace23c4933d96814627fcaea891f5d9cf0bd9f4",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
