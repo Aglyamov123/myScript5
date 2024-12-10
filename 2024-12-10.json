@@ -1,0 +1,26 @@
+{
+  "name": "Christian Potter",
+  "age": 37,
+  "address": {
+    "street": "Ijlik Circle",
+    "city": "Liddowig",
+    "state": "NM",
+    "zip": "85235"
+  },
+  "contact": {
+    "phone": "(723) 227-5550",
+    "servicePhone": "800963871"
+  },
+  "birthday": "1967-09-03T08:34:06.298Z",
+  "ip": "193.114.211.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Edaikus tabafa cufho ureobtu tigetge sod ku ni tiruc nuzsisec ebkolop es abdeped gil. Wifbabaca kut esu nuef hofhoaru tumu tadduhrez du pe za fulazewa lasovij. Gi cu tulaeh hilpef mikak mivmofaj ged vu vonguki jugnit fora unfodu josuvwo ziconlef.",
+    "bio": "Bucotzez zose minwa ozmop jajpi cookote boklieja ezise cejfomga gehfi di bi pofruko loh. Refram ekarah fifup uhsizuv corivow ijeva raseido bilekac otugav gi ize nuzofki rid himo siwevgu misuul zidapo. Ej riviku detilho ojfen agepu ebfoceho fadci pi wok etite ec liv farasmu. Jatonum siwtavto uw fedveref irabam ne itwa usabap rutnek ihva irfada wegefipo coleheb idosina meos tu wojvima."
+  },
+  "apiKey": "e8a9a6f401fe795dcb02a655120e53de484fbe3015926f0ef26292d68c1a77ae",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
