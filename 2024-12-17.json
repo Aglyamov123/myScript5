@@ -1,0 +1,26 @@
+{
+  "name": "Edna Robinson",
+  "age": 53,
+  "address": {
+    "street": "Gate Grove",
+    "city": "Unuseji",
+    "state": "OH",
+    "zip": "33988"
+  },
+  "contact": {
+    "phone": "(355) 916-7476",
+    "servicePhone": "800628729"
+  },
+  "birthday": "1971-03-12T05:05:29.274Z",
+  "ip": "236.109.50.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Jah pevolkaw vejapebi sogu bowufe mu ruahiwa taplizuv jelloju utgupof negmipoc gimeva feba zofbufa ebusami pobtizwi. Ci odipur imjon watba cafu oljaili hulfowe otehopa gegealo uvivuma wedsa docitmi. Kovu ceshuwew ewi edzebbud koisi moc hod ni mojunuzoj juf nuggan jibo lege curivsed oheoravu to jonij.",
+    "bio": "Izoejici hi baji zi dolno su fi keol pac wodepe kigago izosure do foka saewfi ime weckifgim. Fitulti dum rajfuric ti bot meid vuhpem fejgumhov rusnupe mafra ar pohi lu waemsih kukzocod ammam. Hol tavup row naz we sojtior hif info sipewru ti iti ip ig."
+  },
+  "apiKey": "2158d4efc698d5a884b7073ac3c00443e5904e52d0fc53e605a6061816d82158",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
